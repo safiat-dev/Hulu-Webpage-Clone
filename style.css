@@ -72,6 +72,15 @@ h4 {
     margin-top: 5px;
     text-decoration: underline;
 }
+.text-xl {
+    font-size: 70px;
+    font-weight: bold;
+}
+.sub-text {
+    max-width: 850px;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
 
 
 /* header */
@@ -131,6 +140,7 @@ h4 {
 .sub-header > div:last-of-type .sub-link {
     text-align: center;
 }
+/* Categories */
 /* Media Queries */
 @media (max-width: 768px) {
     .header .logo {
